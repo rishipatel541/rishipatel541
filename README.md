@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a8cde75b-8128-41f3-b480-e909c9e5022a)## Hi there 👋
+## Hi there 👋
 
 **rishipatel541/rishipatel541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
